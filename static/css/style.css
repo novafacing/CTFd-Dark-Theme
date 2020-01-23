@@ -178,11 +178,11 @@ table{
 }
 
 .file-wrapper {
-    background-color: #5B7290;
+    background-color: #9B7778;
 }
 
 .file-wrapper:hover {
-    background-color: #747474;
+    background-color: #B95559;
 }
 
 .theme-background {
@@ -191,7 +191,7 @@ table{
 }
 
 .solved-challenge {
-    background-color: #8EDC9D !important;
+    background-color: #7D1518 !important;
 }
 
 .panel-theme {
@@ -298,7 +298,7 @@ table{
     float: right;
     padding: 0 1em;
     width: 40%;
-    color: #6a7989;
+    color: #9B7778;
     font-weight: bold;
     font-size: 100%;
     -webkit-font-smoothing: antialiased;
